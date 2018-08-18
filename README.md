@@ -1,2 +1,0 @@
-# mean
-MongoExpressAngularNode stack implementation
